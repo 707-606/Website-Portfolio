@@ -1,0 +1,13 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h1, h2, .skills-list {
+    font-family: 'Inknut Antiqua', serif;
+}
+
+img {
+    /* this is limiting the width of the image 
+    so it takes 100% width of the parent */
+    max-width: 100%;
+}
