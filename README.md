@@ -1,2 +1,3 @@
 # Website Portfolio
- making portfolio from a skillshare tutorial
+ practicing making portfolio from a skillshare tutorial.
+ 
